@@ -1,0 +1,15 @@
+/*
+ * Tweaks and overrides to hyde.css
+ */
+
+.sidebar-about img {
+  margin: 0 auto 1rem auto;
+  width: 150px;
+  height: 102px;
+  }
+@media (min-width: 48em) {
+  .sidebar-about img {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
