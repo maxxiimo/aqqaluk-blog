@@ -1,7 +1,7 @@
 baseurl = "http://aqqaluktrust.com/"
 title = "Aqqaluk Trust"
 languageCode = "en-us"
-disqusShortname = "aqqaluk" # Optional, enable Disqus integration
+disqusShortname = "" # Optional, enable Disqus integration
 MetaDataFormat = "toml"
 theme = "hyde-x"
 paginate = 5

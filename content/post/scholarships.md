@@ -5,6 +5,8 @@ draft: false
 menu: "main"
 ---
 
+[Download Student Budget Need Sheet](http://aqqaluktrust.com/Budget%20Need%20Worksheet.pdf)
+
 The Aqqaluk Trust awards scholarships to NANA shareholders, their descendents and dependents that are pursuing college and post-graduate degrees and post-secondary education.
 
 Scholarships are issued based on a variety of criteria including demonstrated commitment to Iñupiaq values, prior academic performance, and recommendations from others.
